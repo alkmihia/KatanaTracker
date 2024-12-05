@@ -1,0 +1,15 @@
+
+# Dirs
+node_modules/
+src/whats/sessions
+app/auth_data/
+venv/
+
+.wwebjs_auth/
+.wwebjs_cache/
+.venv/
+
+
+# Files
+package-lock.json
+

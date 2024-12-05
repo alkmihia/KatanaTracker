@@ -1,0 +1,17 @@
+{
+  "name": "katanatracker",
+  "version": "1.0.0",
+  "description": "KatanaTracker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "keywords": ["whatsapp", "qrcode", "tracker", "express", "OSINT", "Neverland"],
+  "author": "Alkmihia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "qrcode-terminal": "latest",
+    "whatsapp-web.js": "latest"
+  }
+}
